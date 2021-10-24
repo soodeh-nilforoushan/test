@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 from numpy.lib.function_base import piecewise
 import seaborn as sns
 import pandas as pd
-
+print("teeeest")
 
 filename="/Users/soudeh/Desktop/ditto-master/data/er_magellan/Structured/Fodors-Zagats/train.txt"
 nonmatch_label=0
